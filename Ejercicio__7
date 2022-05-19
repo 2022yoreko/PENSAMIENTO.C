@@ -1,0 +1,30 @@
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicio_7
+
+{
+    class Program
+    {
+        static void Main(string[]args)
+        {
+            double.Parse("lado A");
+            double.Parse("lado B");
+            double.Parse("lado C");
+            
+            Console.WriteLine("Ingrese el lado A: ");
+            Convert.ToDouble(Console.ReadLine());
+           
+            Console.WriteLine("Ingrese el lado B: ");
+            Convert.ToDouble(Console.ReadLine());
+
+            lado C = Math.Sqrt(Math.Pow(lado A, 2) + Math.Pow(lado B, 2());
+
+
+            Console.WriteLine("la hipotenusa es: (0),lado C" );
+            Console.ReadKey();
+        }
+    }
+}
